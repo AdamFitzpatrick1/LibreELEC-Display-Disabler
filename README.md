@@ -9,7 +9,8 @@ To do this:
 1. Find the IP of the computer using system settings
 2. Connect using SSH
 3. Run xrandr -q
-4. Replace the device names in thr script with the ones in the output
+4. Replace the device names in the script with the ones in the output
+
 To run the script on boot:
 
 Run the following commands (Whilst connected with SSH): 
