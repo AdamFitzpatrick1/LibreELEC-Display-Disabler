@@ -18,4 +18,4 @@ Run the following commands (Whilst connected with SSH):
 1. nano /storage/.config/autostart.sh
 2. Type the code in as it appears in the shell script
 3. Press ctrl+x, press the Y key and then enter
-4. type reboot and press enter
+4. Type reboot and press enter
